@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access.year.year,access_year_year,task_school_eng.model_year_year,base.group_user,1,1,1,1
+access.class.class,access_class_class,task_school_eng.model_class_class,base.group_user,1,1,1,1
+access.subject.subject,access_subject_subject,task_school_eng.model_subject_subject,base.group_user,1,1,1,1
+access.student.student,access_student_student,task_school_eng.model_student_student,base.group_user,1,1,1,1
